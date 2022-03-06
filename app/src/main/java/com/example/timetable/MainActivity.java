@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //commit time is at 2.22pm
         //2nd commit time is 2.23pm
+        //for direct push
     }
 }
